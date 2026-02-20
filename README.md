@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi there!
+I am Igor Tsutaev. Python developer with 3+ years of experience.
 
-<!--
-**tsutaev/tsutaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My tech skills:
+•	Python frameworks and libraries:	Django, Flask, FastAPI, Asyncio, Aiogram, Python-Telegram-Bot
+•	Machine learning, data science:	OpenCV, Pandas, NumPy, Polars, FireDucks, Torch
+•	Databases:	PostgreSQL, MySQL, SQLite, MongoDB, Redis, Clickhouse
+•	Web:	HTTP, HTML5, CSS3, REST API, Strapi
+•	Testing, parsing:	Selenium, Playwright, PyTest, Unittest, Beautiful Soup, Scrapy, Requests, Aiohttp, Httpx
+•	Devops, CI/CD:	Git (Github, Gitlab, Gitea, Forgejo), Docker, Kubernetes, Jenkins, Drone CI, Ansible
+•	Messaging, monitoring:	Celery, Kafka, RabbitMQ, Prometheus, Grafana, Grafana Loki, Btop++
+•	Tools: 	VSCode, PyCharm, Jupiter Notebook, Git Bash, Vim, Postman, Pgadmin4, MySQL Workbench, SQLite Studio
+•	Management:	Jira, Trello, YouGile, Confluence, Slack, Notion, Obsidian, Yandex Tracker
+•	AI (LLMs + agents, CLI, MCP): ChatGPT, Claude, Gemini, Grok, Deepseek, Qwen, GLM, Minimax, Kimi
