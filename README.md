@@ -1,5 +1,4 @@
-### Hi there!
-I am Igor Tsutaev. Python developer with 3+ years of experience.
+### Hi there! I am Igor Tsutaev. Python developer with 3+ years of experience.
 
 **My tech skills:**
 
