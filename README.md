@@ -2,6 +2,7 @@
 ### I am Igor Tsutaev. Python developer with 3+ years of experience.
 
 **My tech skills:**
+
 •	Python frameworks and libraries:	Django, Flask, FastAPI, Asyncio, Aiogram, Python-Telegram-Bot
 •	Machine learning, data science:	OpenCV, Pandas, NumPy, Polars, FireDucks, Torch
 •	Databases:	PostgreSQL, MySQL, SQLite, MongoDB, Redis, Clickhouse
